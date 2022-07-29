@@ -8,3 +8,5 @@ Carrots
 Cereal
 Tommatoes 
 Onions
+Bieans
+Red onion
