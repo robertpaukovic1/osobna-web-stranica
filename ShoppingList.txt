@@ -8,3 +8,6 @@ Carrots
 Cereal
 Tommatoes 
 Onions
+Potatoes 
+Green Peper 
+Red Pepper
